@@ -1,0 +1,7 @@
+{
+  "name": "EcoTraffic Vision AI",
+  "description": "A high-fidelity Smart City simulation dashboard that performs real-time traffic density analysis, pedestrian age estimation, and pollution tracking using computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
